@@ -22,56 +22,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sql.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sql.php">
+      <file leaf-file-name="pdo1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdo/pdo1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.029411">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="17" column="0" selection-start-line="11" selection-start-column="5" selection-end-line="22" selection-end-column="6" />
               <folding>
-                <marker date="1584417276849" expanded="true" signature="311:332" placeholder="select * fro..p_users..." />
+                <marker date="1584434095768" expanded="true" signature="261:282" placeholder="select * fro..p_users..." />
+                <marker date="1584434095768" expanded="true" signature="296:327" placeholder="select * fro..p_users..." />
+                <marker date="1584434095768" expanded="true" signature="296:333" placeholder="select * fro..p_users..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sql2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sql2.php">
+      <file leaf-file-name="pdo2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdo/pdo2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.147059">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.411764">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding>
-                <marker date="1584418599686" expanded="true" signature="435:462" placeholder="select * fro..p_users..." />
-                <marker date="1584418599686" expanded="true" signature="435:466" placeholder="select * fro..p_users..." />
+                <element signature="e#10#39#0#PHP" expanded="true" />
+                <marker date="1584435516690" expanded="true" signature="244:275" placeholder="INSERT INTO REGISTRY..." />
+                <marker date="1584435516690" expanded="true" signature="244:276" placeholder="select * fro..p_users..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sql3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sql3.php">
+      <file leaf-file-name="insert2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdo/insert2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.088235">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state vertical-scroll-proportion="-5.882353">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <marker date="1584419076071" expanded="true" signature="434:472" placeholder="select * fro..p_users..." />
-                <marker date="1584419076071" expanded="true" signature="434:473" placeholder="select * fro..p_users..." />
-                <marker date="1584419076071" expanded="true" signature="434:480" placeholder="select * fro..p_users..." />
-                <marker date="1584419076071" expanded="true" signature="434:481" placeholder="select * fro..p_users..." />
+                <marker date="1584436334902" expanded="true" signature="132:186" placeholder="insert into p_users..." />
+                <marker date="1584436334902" expanded="true" signature="132:193" placeholder="insert into p_users..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sql4.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sql4.php">
+      <file leaf-file-name="insert3.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pdo/insert3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33013207">
-              <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.45018008">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
-                <marker date="1584421446984" expanded="true" signature="542:580" placeholder="select * fro..p_users..." />
-                <marker date="1584421446984" expanded="true" signature="542:581" placeholder="select * fro..p_users..." />
-                <marker date="1584421446984" expanded="true" signature="542:591" placeholder="select * fro..p_users..." />
-                <marker date="1584421446984" expanded="true" signature="605:653" placeholder="select * fro..p_users..." />
+                <marker date="1584436662020" expanded="true" signature="132:184" placeholder="insert into p_users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insert.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdo/insert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.294118">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1584435825899" expanded="true" signature="132:209" placeholder="insert into p_users..." />
               </folding>
             </state>
           </provider>
@@ -86,6 +96,12 @@
         <option value="$PROJECT_DIR$/sql2.php" />
         <option value="$PROJECT_DIR$/sql3.php" />
         <option value="$PROJECT_DIR$/sql4.php" />
+        <option value="$PROJECT_DIR$/info.php" />
+        <option value="$PROJECT_DIR$/pdo/pdo1.php" />
+        <option value="$PROJECT_DIR$/pdo/pdo2.php" />
+        <option value="$PROJECT_DIR$/pdo/insert.php" />
+        <option value="$PROJECT_DIR$/pdo/insert2.php" />
+        <option value="$PROJECT_DIR$/pdo/insert3.php" />
       </list>
     </option>
   </component>
@@ -146,6 +162,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pdo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -192,13 +222,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.099571735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -222,21 +252,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sql2.php">
+    <entry file="file://$PROJECT_DIR$/sql4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.147059">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5402161">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <marker date="1584418599686" expanded="true" signature="435:462" placeholder="select * fro..p_users..." />
-            <marker date="1584418599686" expanded="true" signature="435:466" placeholder="select * fro..p_users..." />
+            <marker date="1584421446984" expanded="true" signature="542:580" placeholder="select * fro..p_users..." />
+            <marker date="1584421446984" expanded="true" signature="542:581" placeholder="select * fro..p_users..." />
+            <marker date="1584421446984" expanded="true" signature="542:591" placeholder="select * fro..p_users..." />
+            <marker date="1584421446984" expanded="true" signature="605:653" placeholder="select * fro..p_users..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sql3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.088235">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.24009603">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
             <marker date="1584419076071" expanded="true" signature="434:472" placeholder="select * fro..p_users..." />
             <marker date="1584419076071" expanded="true" signature="434:473" placeholder="select * fro..p_users..." />
@@ -246,25 +278,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sql2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21008404">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1584418599686" expanded="true" signature="435:462" placeholder="select * fro..p_users..." />
+            <marker date="1584418599686" expanded="true" signature="435:466" placeholder="select * fro..p_users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.029411">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.5402161">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding>
             <marker date="1584417276849" expanded="true" signature="311:332" placeholder="select * fro..p_users..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sql4.php">
+    <entry file="file://$PROJECT_DIR$/info.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33013207">
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.030012004">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo/pdo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="17" column="0" selection-start-line="11" selection-start-column="5" selection-end-line="22" selection-end-column="6" />
           <folding>
-            <marker date="1584421446984" expanded="true" signature="542:580" placeholder="select * fro..p_users..." />
-            <marker date="1584421446984" expanded="true" signature="542:581" placeholder="select * fro..p_users..." />
-            <marker date="1584421446984" expanded="true" signature="542:591" placeholder="select * fro..p_users..." />
-            <marker date="1584421446984" expanded="true" signature="605:653" placeholder="select * fro..p_users..." />
+            <marker date="1584434095768" expanded="true" signature="261:282" placeholder="select * fro..p_users..." />
+            <marker date="1584434095768" expanded="true" signature="296:327" placeholder="select * fro..p_users..." />
+            <marker date="1584434095768" expanded="true" signature="296:333" placeholder="select * fro..p_users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo/pdo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.411764">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#10#39#0#PHP" expanded="true" />
+            <marker date="1584435516690" expanded="true" signature="244:275" placeholder="INSERT INTO REGISTRY..." />
+            <marker date="1584435516690" expanded="true" signature="244:276" placeholder="select * fro..p_users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.294118">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1584435825899" expanded="true" signature="132:209" placeholder="insert into p_users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo/insert2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.882353">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1584436334902" expanded="true" signature="132:186" placeholder="insert into p_users..." />
+            <marker date="1584436334902" expanded="true" signature="132:193" placeholder="insert into p_users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdo/insert3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45018008">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1584436662020" expanded="true" signature="132:184" placeholder="insert into p_users..." />
           </folding>
         </state>
       </provider>
